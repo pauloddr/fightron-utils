@@ -9,4 +9,4 @@ export class Base {
   free () {
     this._free = true
   }
-}
+}; // eslint-disable-line semi
