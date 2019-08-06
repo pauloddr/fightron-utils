@@ -19,7 +19,7 @@
   "homepage": "https://github.com/pauloddr/fightron-utils#readme",
   "devDependencies": {
     "chai": "4.2.0",
-    "coveralls": "3.0.5",
+    "coveralls": "3.0.6",
     "dirty-chai": "2.0.1",
     "esm": "3.2.25",
     "mocha": "6.2.0",
